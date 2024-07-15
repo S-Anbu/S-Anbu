@@ -3,3 +3,7 @@
 - https://s-anbu.github.io/Anbarasan-Subramani-Portfolio/
 
 🌱 I’m currently learning html, css, javascript, React, node.js, Express.js mongoDb and mysql (MERN stack) ...
+
+Motivational Quots:
+- <i>"Taking the right decision is difficult.<br> Make a decision and make it right"</i>
+
