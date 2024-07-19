@@ -5,5 +5,6 @@
 🌱 I’m currently learning html, css, javascript, React, node.js, Express.js mongoDb and mysql (MERN stack) ...
 
 Motivational Quotes:<br>
-  <i>"Taking the right decision is difficult.<br>    Take a decision and make it right"</i>
+<h1>     </h1><br>
+  <i>"Taking the right decision is difficult.<br>     Take a decision and make it right"</i>
 
