@@ -1,4 +1,4 @@
-# 👋 Hi, I’m  `Anbarasan Subramani @ S-Anbu`
+# 👋 Hi, I’m  `Anbarasan Subramani` `@ S-Anbu`
 -  portfolio website: - https://s-anbu.github.io/Anbarasan-Subramani-Portfolio/
 
 🌱 I’m currently learning html, css, javascript, React, node.js, Express.js mongoDb and mysql (MERN stack) ...
